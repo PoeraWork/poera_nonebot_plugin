@@ -7,5 +7,4 @@ some plugin for nonebot2
 ## 插件列表
 <details>
 <summary>目前有的插件</summary>
-### 目前有的插件
 - bug反馈
