@@ -8,4 +8,4 @@ some plugin for nonebot2
 <details>
 <summary>目前有的插件</summary>
 ### 目前有的插件
-  bug反馈
+- bug反馈
