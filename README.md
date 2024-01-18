@@ -10,4 +10,4 @@ some plugin for nonebot2
 ## 插件列表
 <details>
 <summary>目前有的插件</summary>
-- bug反馈
+ - bug反馈
